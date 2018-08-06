@@ -1,0 +1,9 @@
+/*
+Theme Name: wp-bootstrap-template
+Theme Author: dfusic
+Author URL: https://www.dfusic.xyz
+Description: Basic Wordpress theme template including Bootstrap
+*/
+
+@import url('css/bootstrap.min.css');
+@import url('css/main.css');
